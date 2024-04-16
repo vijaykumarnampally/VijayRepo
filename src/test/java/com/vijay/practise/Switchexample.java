@@ -59,5 +59,10 @@ public class Switchexample {
     }
 		System.out.println(daystring);
 		}
+	
+	public void Switchexample2() {
+		
+		System.out.println("SWITCH");
+	}
 	}
 		
